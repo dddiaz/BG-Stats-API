@@ -19,10 +19,6 @@ module.exports = {
 };
 
 
-TODO
-restrict api acesss
-
+Tutorial Documentation for AWS Lambda
 http://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started.html
 
-test Stage:
-Invoke URL: https://uxlmtxq0vb.execute-api.us-east-1.amazonaws.com/test
