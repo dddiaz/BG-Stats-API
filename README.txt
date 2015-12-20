@@ -13,6 +13,11 @@ GetDayAverage
 Get3HrAverage
 GetEstA1C
 
+Make sure you have a settings.js file of the format:
+module.exports = {
+   db: 'your mongo db'
+};
+
 
 TODO
 restrict api acesss

@@ -38,3 +38,6 @@ node_modules
 
 #ignore .env files
 *.env
+
+#ignore settings file with db info
+*settings.js
