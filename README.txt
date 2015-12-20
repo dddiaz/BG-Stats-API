@@ -18,6 +18,16 @@ module.exports = {
    db: 'your mongo db'
 };
 
+To Set Up New Lambda API:
+Create Folder with API Name
+cd into folder
+npm init
+npm install mongodb
+nano index.js
+(Make sure node-lambda is already installed with npm install node-lamda)
+node-lamda setup
+nano settings.js (add db connection string as described above)
+
 
 Tutorial Documentation for AWS Lambda
 http://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started.html
