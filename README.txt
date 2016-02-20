@@ -13,6 +13,8 @@ GetDayAverage
 Get3HrAverage
 GetEstA1C
 
+Note: When uploading to AWS lambda, increase your allocated memory to increase the cpu allocated and ensure it returns it quicly enough to the api gateway
+
 Make sure you have a settings.js file of the format:
 module.exports = {
    db: 'your mongo db'
