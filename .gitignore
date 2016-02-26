@@ -41,3 +41,5 @@ node_modules
 
 #ignore settings file with db info
 *settings.js
+
+*.zip
